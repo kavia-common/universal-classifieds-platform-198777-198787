@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/universal-classifieds-platform-198777-198787/classifieds_database"
+}
